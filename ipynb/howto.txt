@@ -1,0 +1,47 @@
+make_deta.ipynb
+↓
+kansuu.R　→　最後のテストデータだけlearning.R
+↓
+pred_prot.ipynb all_period.ipynb
+↓
+hikaku.ipynb
+
+
+
+2023/7/21
+make_deta.ipynb
+↓
+learning.R →　learning_tail.R
+↓
+結果のプロット
+pred_prot.ipynb 
+all_period.ipynb
+alldata_plot.ipynb
+↓
+評価
+Comparison.ipynb
+
+
+
+イベントインパクト生成
+make_deta
+↓
+kankou_leaning in func.R
+↓
+set_new_ei_train in set_ei.R
+set_new_ei_test in set_ei.R
+↓
+while in set_ei.R
+
+
+イベントインパクト生成 10/11
+make_deta
+↓
+make_EventImpact.ipynb
+↓
+kankou_leaning in func.R
+↓
+set_new_ei_train in set_ei.R
+set_new_ei_test in set_ei.R
+↓
+while in set_ei.R
