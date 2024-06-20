@@ -1,0 +1,27 @@
+{
+    "id": "20CA9970",
+    "path": "~/研究/R/crossvali.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "4207868374",
+    "contents": "",
+    "dirty": false,
+    "created": 1706343756923.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,0",
+        "scrollLine": "0"
+    },
+    "folds": "72|41|84|0|\n127|58|132|0|\n137|23|139|0|\n149|46|156|0|\n162|22|172|0|\n",
+    "lastKnownWriteTime": 1707333281,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707333281177,
+    "read_only": false,
+    "read_only_alternatives": []
+}
